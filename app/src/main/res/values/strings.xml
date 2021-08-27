@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan Storage</string>
+    <string name="text_create_file">Buat File</string>
+    <string name="text_edit_file">Ubah File</string>
+    <string name="text_read_file">Baca File</string>
+    <string name="text_delete_file">Hapus File</string>
+    <string name="text_result_file">Hasil Baca File</string>
+</resources>
